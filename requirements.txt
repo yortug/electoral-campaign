@@ -1,7 +1,6 @@
 numpy==1.15.2
 * necessary for arrays
 
-requests==2.19.1
 googlemaps==3.0.2
 beautifulsoup4==4.6.3
 * only necessary for scraping the distance data
