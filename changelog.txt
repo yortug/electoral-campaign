@@ -1,0 +1,54 @@
+27-10-2018 v1.1
+====================
+Processing.py
+  1. removed CSV module dependency
+   - replaced readCSV() with readCSV2()
+   - changed csv write process in resultsMenu()
+   - changed csv write process in marginalResultsMenu()
+   - changed csv write process in marginalCampaignMenu()
+
+marginalCampaign.py
+  1. removed CSV module dependency
+   - replaced readCSV() to readCSV2()
+  2. found error in total time formatting for .txt output
+   - added missing '%24'
+
+make_australia.py
+  1. removed CSV module dependency
+   - replaced readCSV() to readCSV2()
+  2. found "shooters, fishers and farmers" error
+   - changed index from 13 to -2 (negative indexing side-steps the problem)
+
+australia.pickle
+  1. updated after "shooters, fishers and farmers" error fix
+   - remade australia.pickle using make_australia.py 
+
+clean_data.py
+  1. removed CSV module dependency
+   - replaced readCSV() to readCSV2()
+  2. found a None check iteration error
+   - changed "if array == None" to "if np.any(array == None)"
+
+airport_dist_clean.pickle
+  1. updated after None check iteration error fix
+   - remade airport_dist_clean.pickle using clean_data.py
+
+electorate_dist_clean.pickle
+  1. updated after None check iteration error fix
+   - remade electorate_dist_clean.pickle using clean_data.py
+
+/data_structures/DSAGraph.py
+  1. removed simple sorted() function dependency (forgot to remove after testing)
+   - simple cases were just a switch from "sorted()" to "DSASorts().insertionSort()"
+  2. removed more complex sorted() (lambda function) dependency
+   - this was being used in my Kruskal's algorithm as a placeholder
+   - WAS necessary because didn't have a way to solve objects by their attributes
+   - but made edgeSort() function and edited Kruskal's to work with that instead
+
+/data_structures/DSASorts.py
+  1. added edgeSort() function
+   - was necessary to get rid of complex sorted() dependency in my Kruskal's algorithm
+
+/data_structures/DSASorts_test1.py
+  1. created this file
+   - simple look at some basic testing I did when implementing edgeSort() function

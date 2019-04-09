@@ -1,0 +1,89 @@
+################################################################################
+#                       MARGINAL CAMPAIGN TRAIL [2016 POLL DATA]               #
+#                                                                              #
+#                       CREATED BY: TROY ENGELHARDT                            #
+################################################################################
+# CAMPAIGN ROUTE:                                                              #
+################################################################################
+# Perth Airport                                  #       180 minutes           #
+# Perth Airport -> Adelaide Airport              #       170 minutes           #
+# Adelaide Airport                               #       180 minutes           #
+# Adelaide Airport -> Adelaide                   #       21 minutes            #
+# Adelaide                                       #       180 minutes           #
+# Adelaide -> Adelaide Airport                   #       21 minutes            #
+# Adelaide Airport                               #       180 minutes           #
+# Adelaide Airport -> Hobart Airport             #       185 minutes           #
+# Hobart Airport                                 #       180 minutes           #
+# Hobart Airport -> Braddon                      #       320 minutes           #
+# Braddon                                        #       180 minutes           #
+# Braddon -> Hobart Airport                      #       320 minutes           #
+# Hobart Airport                                 #       180 minutes           #
+# Hobart Airport -> Brisbane Airport             #       155 minutes           #
+# Brisbane Airport                               #       180 minutes           #
+# Brisbane Airport -> Flynn                      #       453 minutes           #
+# Flynn                                          #       180 minutes           #
+# Flynn -> Capricornia                           #       NONE minutes          #
+# Capricornia                                    #       180 minutes           #
+# Capricornia -> Flynn                           #       NONE minutes          #
+# Flynn                                          #       180 minutes           #
+# Flynn -> Longman                               #       431 minutes           #
+# Longman                                        #       180 minutes           #
+# Longman -> Flynn                               #       431 minutes           #
+# Flynn                                          #       180 minutes           #
+# Flynn -> Brisbane Airport                      #       453 minutes           #
+# Brisbane Airport                               #       180 minutes           #
+# Brisbane Airport -> Melbourne Airport          #       130 minutes           #
+# Melbourne Airport                              #       180 minutes           #
+# Melbourne Airport -> Batman                    #       26 minutes            #
+# Batman                                         #       180 minutes           #
+# Batman -> Jagajaga                             #       17 minutes            #
+# Jagajaga                                       #       180 minutes           #
+# Jagajaga -> Batman                             #       17 minutes            #
+# Batman                                         #       180 minutes           #
+# Batman -> Melbourne Airport                    #       26 minutes            #
+# Melbourne Airport                              #       180 minutes           #
+# Melbourne Airport -> Bendigo                   #       82 minutes            #
+# Bendigo                                        #       180 minutes           #
+# Bendigo -> Melbourne Airport                   #       82 minutes            #
+# Melbourne Airport                              #       180 minutes           #
+# Melbourne Airport -> Brisbane Airport          #       130 minutes           #
+# Brisbane Airport                               #       180 minutes           #
+# Brisbane Airport -> Moreton                    #       30 minutes            #
+# Moreton                                        #       180 minutes           #
+# Moreton -> Forde                               #       37 minutes            #
+# Forde                                          #       180 minutes           #
+# Forde -> Moreton                               #       37 minutes            #
+# Moreton                                        #       180 minutes           #
+# Moreton -> Brisbane Airport                    #       30 minutes            #
+# Brisbane Airport                               #       180 minutes           #
+# Brisbane Airport -> Hobart Airport             #       155 minutes           #
+# Hobart Airport                                 #       180 minutes           #
+# Hobart Airport -> Sydney Airport               #       110 minutes           #
+# Sydney Airport                                 #       180 minutes           #
+# Sydney Airport -> Eden-Monaro                  #       286 minutes           #
+# Eden-Monaro                                    #       180 minutes           #
+# Eden-Monaro -> Lindsay                         #       290 minutes           #
+# Lindsay                                        #       180 minutes           #
+# Lindsay -> Eden-Monaro                         #       290 minutes           #
+# Eden-Monaro                                    #       180 minutes           #
+# Eden-Monaro -> Sydney Airport                  #       286 minutes           #
+# Sydney Airport                                 #       180 minutes           #
+# Sydney Airport -> Macquarie                    #       101 minutes           #
+# Macquarie                                      #       180 minutes           #
+# Macquarie -> Sydney Airport                    #       101 minutes           #
+# Sydney Airport                                 #       180 minutes           #
+# Sydney Airport -> Hobart Airport               #       110 minutes           #
+# Hobart Airport                                 #       180 minutes           #
+# Hobart Airport -> Adelaide Airport             #       185 minutes           #
+# Adelaide Airport                               #       180 minutes           #
+# Adelaide Airport -> Perth Airport              #       170 minutes           #
+# Perth Airport                                  #       180 minutes           #
+# Perth Airport -> Cowan                         #       28 minutes            #
+# Cowan                                          #       180 minutes           #
+################################################################################
+# NONE EDGE PRESENT? TRUE -- total travel will underestimate true travel time  #
+################################################################################
+# 12556 minutes                                                                #
+# 209 hours 16 minutes                                                         #
+# 8 days 17 hours 16 minutes                                                  #
+################################################################################

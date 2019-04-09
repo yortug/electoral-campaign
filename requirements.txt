@@ -1,0 +1,14 @@
+numpy==1.15.2
+* necessary for arrays
+
+requests==2.19.1
+googlemaps==3.0.2
+beautifulsoup4==4.6.3
+* only necessary for scraping the distance data
+
+textwrap==PYTHONv3.7.1
+time==PYTHONv3.7.1
+copy==PYTHONv3.7.1
+pickle==PYTHONv3.7.1
+sys==PYTHONv3.7.1
+* inbuilt within Python (hmmm, we're allowed to use all of these but not csv? strange)
